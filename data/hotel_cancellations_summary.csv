@@ -1,0 +1,26 @@
+market_segment,lead_time_band,bookings,cancelled,est_revenue_on_cancelled
+Aviation,1) 0-29 days,237,52,16578
+Complementary,1) 0-29 days,655,79,83
+Complementary,2) 30-89 days,66,14,187
+Complementary,3) 90-179 days,18,4,0
+Complementary,4) 180+ days,4,0,0
+Corporate,1) 0-29 days,4082,471,75648
+Corporate,2) 30-89 days,902,347,78381
+Corporate,3) 90-179 days,264,151,33731
+Corporate,4) 180+ days,47,23,8623
+Direct,1) 0-29 days,7483,842,325207
+Direct,2) 30-89 days,2421,511,280872
+Direct,3) 90-179 days,1831,352,246517
+Direct,4) 180+ days,871,229,140814
+Groups,1) 0-29 days,2181,635,137643
+Groups,2) 30-89 days,4001,2077,510033
+Groups,3) 90-179 days,4554,2900,816448
+Groups,4) 180+ days,9075,6485,1336419
+Offline TA/TO,1) 0-29 days,4537,709,161824
+Offline TA/TO,2) 30-89 days,5871,1751,507039
+Offline TA/TO,3) 90-179 days,6466,2477,847275
+Offline TA/TO,4) 180+ days,7345,3374,976220
+Online TA,1) 0-29 days,18870,4152,1692774
+Online TA,2) 30-89 days,16658,6605,2987754
+Online TA,3) 90-179 days,13329,5905,3191852
+Online TA,4) 180+ days,7620,4077,2355266
